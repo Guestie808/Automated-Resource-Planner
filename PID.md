@@ -6,14 +6,12 @@
 
 ## Project Team:
 
-### Document Control
-
+## Document Control
 | Version | Issued | Details of Change | Author |
 | --- | --- | --- | --- |
 | v0.1 | | | |
 
-### Document Particulars
-
+## Document Particulars
 **Review & Sign-Off**
 
 **Authors (Responsible)**
@@ -46,42 +44,100 @@
 | --- | --- |
 | | |
 
-### Contents
+## Contents
+- [**1 Project Definition**](#1-project-definition)
+  - 1.1 Purpose
+  - 1.2 Aims & Objectives
+  - 1.3 Approach
+  - 1.4 Success Criteria
+- [**2 Business Case**](#2-business-case)
+  - 2.1 Background
+  - 2.2 Options Considered
+  - 2.3 Benefits, Costs and Constraints
+- [**3 Project Scope**](#3-project-scope)
+  - 3.1 Scope - Inclusions and Exclusions
+  - 3.2 Deliverables
+  - 3.3 Risks
+  - 3.4 Assumptions
+  - 3.5 Issues
+  - 3.6 Dependencies
+- [**4 Communications and Stakeholders**](#4-communications-and-stakeholders)
+  - 4.1 Reporting
+  - 4.2 Project Team Membership and Roles
+- [**5 Conclusion**](#5-conclusion)
+- [**6 Appendices**](#6-appendices)
 
-[**1 Project Definition**](#1-project-definition)
+## 1 Project Definition
+### 1.1 Purpose
+The aims of the project, whether it’s a new product, or a change.  
 
-1.1 Purpose
+### 1.2 Aims & Objectives
+Define the goals, long-term outcomes, and the objectives, short-term outcomes, of the project. Make sure objectives are SMART and link back to the purpose. 
 
-1.2 Aims & Objectives
+### 1.3 Approach
+Approaches to team and project management. 
 
-1.3 Approach
+### 1.4 Success Criteria
+Explain how you’ll measure the project to determine if it’s successful or not. 
 
-1.4 Success Criteria
+## 2 Business Case
+The business case is the document that justifies the project. It’s similar to what’s discussed in the project definition but goes into greater detail. 
+### 2.1 Background
+A more detailed discussion of the system as-is, and what problems or opportunities exist. 
 
-#### 2 Business Case
+Include one or more relevant Business Analysis techniques from IT Practice: Skills, Models, and Methods. 
 
-2.1 Background
-2.2 Options Considered
-2.3 Benefits, Costs and Constraints
+### 2.2 Options Considered
+Other options considered, with a brief explanation as to why they are not being considered. 
 
-#### 3 Project Scope
+Include one or more relevant Business Analysis techniques from IT Practice: Skills, Models, and Methods. 
 
-3.1 Scope - Inclusions and Exclusions
-3.2 Deliverables
-3.3 Risks
-3.4 Assumptions
-3.5 Issues
-3.6 Dependencies
+### 2.3 Benefits, Costs and Constraints
+List the benefits that the project will deliver. These should relate to the business case. 
 
-#### 4 Communications and Stakeholders
+Include one or more relevant Business Analysis techniques from IT Practice: Skills, Models, and Methods. 
 
-- 4.1 Reporting
-- 4.2 Project Team Membership and Roles
+## 3 Project Scope
+Project scope defines the goals, constraints, workflow management, strategies, tasks and deliverables of the project. Again, while some of this is touched upon in the project definition section, this is a more comprehensive account of all the work to be done in the project. 
+### 3.1 Scope - Inclusions and Exclusions
+What is included in the scope of the project? What is excluded from the project? 
 
-#### 5 Conclusion
+### 3.2 Deliverables
+How will the board know that the project has been completed successfully? What products or activities need to be delivered to achieve the project aim and objectives? 
 
-#### 6 Appendicies
+Don’t include management deliverables (e.g. PID, report, lessons learned, presentation, Gantt chart), focus on product deliverables. Remember your report must include a section on each deliverable, so don’t add too many. 
+| Deliverable | Lead | Stage |
+| --- | --- | --- |
+| | | |
 
-### 1 Project Definition
+### 3.3 Risks
+Identify potential events that may impact the project negatively 
 
-#### 1.1 Purpose
+### 3.4 Assumptions
+What assumptions have been made during the planning of the project? 
+
+### 3.5 Issues
+Are there any pre-existing issues needing resolution during project execution. 
+
+### 3.6 Dependencies
+What are the main interdependencies between project deliverables? 
+
+## 4 Communications and Stakeholders
+List the channels of communication the project will be using, what they will be used for and who the intended audience will be.  List the people who will be affected by the work and/or benefits of the project. List anyone else who needs to be kept informed about aspects of the work. 
+### 4.1 Reporting
+Detail how project work will be monitored and reported, including how often and to whom. 
+
+### 4.2 Project Team Membership and Roles
+List core team members and their job titles.  Include members of the wider team if helpful. 
+| Name | Role |
+| --- | --- |
+
+## 5 Conclusion
+Include early reflection on progress so far. 
+
+## 6 Appendices
+### Appendix A – Related Documents 
+
+Here you'll want to create the project schedule, including all tasks, deadlines and milestones, and place them on a timeline (e.g. Gannt chart)
+
+### Appendix B – Glossary 
