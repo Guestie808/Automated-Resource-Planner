@@ -1,0 +1,12 @@
+interview 1
+
+1. What are the main features of the current system you are using?
+
+2. Which features do you like and why?
+
+3. Which features do you dislike and why?
+
+4. Are there any particular features you would want in the new system?
+- Necessities vs optional
+
+5. Any aesthetic preferences or is efficiency/readability
