@@ -1,0 +1,303 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="C-w0WjxjmUxW9SuGKrG2">
+    <mxGraphModel dx="1170" dy="647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="V9Pe7E7J6GEo8Y276DVb-6" parent="1" style="html=1;whiteSpace=wrap;" value="" vertex="1">
+          <mxGeometry height="210" width="410" x="280" y="97.5" as="geometry" />
+        </mxCell>
+        <mxCell id="V9Pe7E7J6GEo8Y276DVb-7" parent="1" style="html=1;whiteSpace=wrap;" value="Automated Resource Planner" vertex="1">
+          <mxGeometry height="50" width="410" x="280" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="V9Pe7E7J6GEo8Y276DVb-1" parent="1" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.button;dx=10;whiteSpace=wrap;" value="Generate" vertex="1">
+          <mxGeometry height="60" width="110" x="290" y="175" as="geometry" />
+        </mxCell>
+        <mxCell id="V9Pe7E7J6GEo8Y276DVb-116" edge="1" parent="1" source="V9Pe7E7J6GEo8Y276DVb-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="710" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V9Pe7E7J6GEo8Y276DVb-9" parent="1" style="html=1;whiteSpace=wrap;" value="" vertex="1">
+          <mxGeometry height="230" width="410" x="280" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="V9Pe7E7J6GEo8Y276DVb-10" parent="1" style="html=1;whiteSpace=wrap;" value="Teaching Timetable" vertex="1">
+          <mxGeometry height="50" width="410" x="280" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="V9Pe7E7J6GEo8Y276DVb-11" parent="1" style="html=1;whiteSpace=wrap;" value="Monday" vertex="1">
+          <mxGeometry height="40" width="70" x="290" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="V9Pe7E7J6GEo8Y276DVb-12" parent="1" style="html=1;whiteSpace=wrap;" value="Tuesday" vertex="1">
+          <mxGeometry height="40" width="70" x="370" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="V9Pe7E7J6GEo8Y276DVb-13" parent="1" style="html=1;whiteSpace=wrap;" value="Wednesday" vertex="1">
+          <mxGeometry height="40" width="70" x="450" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="V9Pe7E7J6GEo8Y276DVb-14" parent="1" style="html=1;whiteSpace=wrap;" value="Thursday" vertex="1">
+          <mxGeometry height="40" width="70" x="530" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="V9Pe7E7J6GEo8Y276DVb-15" parent="1" style="html=1;whiteSpace=wrap;" value="Friday" vertex="1">
+          <mxGeometry height="40" width="70" x="610" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="V9Pe7E7J6GEo8Y276DVb-16" parent="1" style="html=1;whiteSpace=wrap;" value="Week 1" vertex="1">
+          <mxGeometry height="25" width="90" x="280" y="385" as="geometry" />
+        </mxCell>
+        <mxCell id="V9Pe7E7J6GEo8Y276DVb-18" parent="1" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.button;dx=10;whiteSpace=wrap;" value="&amp;lt; Week &amp;gt;" vertex="1">
+          <mxGeometry height="40" width="70" x="610" y="365" as="geometry" />
+        </mxCell>
+        <mxCell id="V9Pe7E7J6GEo8Y276DVb-19" parent="1" style="html=1;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" value="Class" vertex="1">
+          <mxGeometry height="25" width="70" x="290" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="V9Pe7E7J6GEo8Y276DVb-20" parent="1" style="html=1;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" value="Class" vertex="1">
+          <mxGeometry height="25" width="70" x="370" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="V9Pe7E7J6GEo8Y276DVb-21" parent="1" style="html=1;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" value="Class" vertex="1">
+          <mxGeometry height="25" width="70" x="370" y="505" as="geometry" />
+        </mxCell>
+        <mxCell id="V9Pe7E7J6GEo8Y276DVb-22" parent="1" style="html=1;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" value="Class" vertex="1">
+          <mxGeometry height="25" width="70" x="450" y="505" as="geometry" />
+        </mxCell>
+        <mxCell id="V9Pe7E7J6GEo8Y276DVb-23" parent="1" style="html=1;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" value="Class" vertex="1">
+          <mxGeometry height="25" width="70" x="610" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="V9Pe7E7J6GEo8Y276DVb-24" parent="1" style="html=1;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" value="Class" vertex="1">
+          <mxGeometry height="25" width="70" x="610" y="505" as="geometry" />
+        </mxCell>
+        <mxCell id="V9Pe7E7J6GEo8Y276DVb-25" parent="1" style="html=1;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" value="Class" vertex="1">
+          <mxGeometry height="25" width="70" x="530" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="V9Pe7E7J6GEo8Y276DVb-42" edge="1" parent="1" source="V9Pe7E7J6GEo8Y276DVb-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="V9Pe7E7J6GEo8Y276DVb-30" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V9Pe7E7J6GEo8Y276DVb-27" parent="1" style="html=1;whiteSpace=wrap;" value="&lt;div&gt;&lt;p&gt;Day, Time:&lt;/p&gt;&lt;/div&gt;&lt;div&gt;&lt;p&gt;Room: 103&lt;/p&gt;&lt;/div&gt;&lt;div&gt;&lt;p&gt;Equipment:&lt;/p&gt;&lt;/div&gt;&lt;div&gt;&lt;p&gt;Technician:&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="175" width="140" x="110" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="V9Pe7E7J6GEo8Y276DVb-28" parent="1" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.button;dx=10;whiteSpace=wrap;" value="Manually Adjust" vertex="1">
+          <mxGeometry height="40" width="115" x="122.5" y="485" as="geometry" />
+        </mxCell>
+        <mxCell id="V9Pe7E7J6GEo8Y276DVb-30" parent="1" style="html=1;whiteSpace=wrap;" value="&lt;div&gt;&lt;p&gt;Day, Time:&lt;/p&gt;&lt;/div&gt;&lt;div&gt;&lt;p&gt;&lt;span style=&quot;color: light-dark(rgb(255, 0, 0), rgb(237, 237, 237));&quot;&gt;Room: 106&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;div&gt;&lt;p&gt;Equipment:&lt;/p&gt;&lt;/div&gt;&lt;div&gt;&lt;p&gt;Technician:&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="300" width="140" x="110" y="585" as="geometry" />
+        </mxCell>
+        <mxCell id="V9Pe7E7J6GEo8Y276DVb-115" edge="1" parent="1" source="V9Pe7E7J6GEo8Y276DVb-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="V9Pe7E7J6GEo8Y276DVb-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V9Pe7E7J6GEo8Y276DVb-31" parent="1" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.button;dx=10;whiteSpace=wrap;" value="Manually Adjust" vertex="1">
+          <mxGeometry height="40" width="115" x="125" y="845" as="geometry" />
+        </mxCell>
+        <mxCell id="V9Pe7E7J6GEo8Y276DVb-33" parent="1" style="html=1;whiteSpace=wrap;" value="Error: room already in use" vertex="1">
+          <mxGeometry height="50" width="110" x="125" y="775" as="geometry" />
+        </mxCell>
+        <mxCell id="V9Pe7E7J6GEo8Y276DVb-36" parent="1" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.button;dx=10;whiteSpace=wrap;" value="Room Timetable" vertex="1">
+          <mxGeometry height="60" width="110" x="560" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="V9Pe7E7J6GEo8Y276DVb-37" parent="1" style="html=1;whiteSpace=wrap;" value="Import CSV file" vertex="1">
+          <mxGeometry height="50" width="110" x="290" y="113" as="geometry" />
+        </mxCell>
+        <mxCell id="V9Pe7E7J6GEo8Y276DVb-93" edge="1" parent="1" source="V9Pe7E7J6GEo8Y276DVb-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="V9Pe7E7J6GEo8Y276DVb-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V9Pe7E7J6GEo8Y276DVb-38" parent="1" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.button;dx=10;whiteSpace=wrap;" value="Equipment Timetable" vertex="1">
+          <mxGeometry height="60" width="110" x="560" y="175" as="geometry" />
+        </mxCell>
+        <mxCell id="V9Pe7E7J6GEo8Y276DVb-39" parent="1" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.button;dx=10;whiteSpace=wrap;" value="Technician timetable" vertex="1">
+          <mxGeometry height="60" width="110" x="560" y="108" as="geometry" />
+        </mxCell>
+        <mxCell id="V9Pe7E7J6GEo8Y276DVb-40" edge="1" parent="1" source="V9Pe7E7J6GEo8Y276DVb-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.327;entryY=0.008;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;" target="V9Pe7E7J6GEo8Y276DVb-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V9Pe7E7J6GEo8Y276DVb-41" edge="1" parent="1" source="V9Pe7E7J6GEo8Y276DVb-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.017;entryY=0.601;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;" target="V9Pe7E7J6GEo8Y276DVb-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V9Pe7E7J6GEo8Y276DVb-43" parent="1" style="html=1;whiteSpace=wrap;" value="" vertex="1">
+          <mxGeometry height="290" width="410" x="710" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="V9Pe7E7J6GEo8Y276DVb-94" edge="1" parent="1" source="V9Pe7E7J6GEo8Y276DVb-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="V9Pe7E7J6GEo8Y276DVb-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V9Pe7E7J6GEo8Y276DVb-44" parent="1" style="html=1;whiteSpace=wrap;" value="Technician/Equipment/Room Timetable" vertex="1">
+          <mxGeometry height="90" width="410" x="710" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="V9Pe7E7J6GEo8Y276DVb-45" parent="1" style="html=1;whiteSpace=wrap;" value="Monday" vertex="1">
+          <mxGeometry height="40" width="70" x="720" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="V9Pe7E7J6GEo8Y276DVb-46" parent="1" style="html=1;whiteSpace=wrap;" value="Tuesday" vertex="1">
+          <mxGeometry height="40" width="70" x="800" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="V9Pe7E7J6GEo8Y276DVb-47" parent="1" style="html=1;whiteSpace=wrap;" value="Wednesday" vertex="1">
+          <mxGeometry height="40" width="70" x="880" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="V9Pe7E7J6GEo8Y276DVb-48" parent="1" style="html=1;whiteSpace=wrap;" value="Thursday" vertex="1">
+          <mxGeometry height="40" width="70" x="960" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="V9Pe7E7J6GEo8Y276DVb-49" parent="1" style="html=1;whiteSpace=wrap;" value="Friday" vertex="1">
+          <mxGeometry height="40" width="70" x="1040" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="V9Pe7E7J6GEo8Y276DVb-50" parent="1" style="html=1;whiteSpace=wrap;" value="Week 1" vertex="1">
+          <mxGeometry height="25" width="90" x="710" y="115" as="geometry" />
+        </mxCell>
+        <mxCell id="V9Pe7E7J6GEo8Y276DVb-51" parent="1" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.button;dx=10;whiteSpace=wrap;" value="&lt;div&gt;Search Technician/Equipment/Room&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="230" x="800" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="V9Pe7E7J6GEo8Y276DVb-60" parent="1" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.button;dx=10;whiteSpace=wrap;" value="&amp;lt; Week &amp;gt;" vertex="1">
+          <mxGeometry height="40" width="70" x="1050" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="V9Pe7E7J6GEo8Y276DVb-117" edge="1" parent="1" source="V9Pe7E7J6GEo8Y276DVb-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="V9Pe7E7J6GEo8Y276DVb-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V9Pe7E7J6GEo8Y276DVb-61" parent="1" style="html=1;whiteSpace=wrap;" value="" vertex="1">
+          <mxGeometry height="290" width="410" x="1150" y="215" as="geometry" />
+        </mxCell>
+        <mxCell id="V9Pe7E7J6GEo8Y276DVb-62" parent="1" style="html=1;whiteSpace=wrap;" value="Technician/Equipment/Room Timetable" vertex="1">
+          <mxGeometry height="90" width="410" x="1150" y="125" as="geometry" />
+        </mxCell>
+        <mxCell id="V9Pe7E7J6GEo8Y276DVb-63" parent="1" style="html=1;whiteSpace=wrap;" value="Monday" vertex="1">
+          <mxGeometry height="40" width="70" x="1160" y="225" as="geometry" />
+        </mxCell>
+        <mxCell id="V9Pe7E7J6GEo8Y276DVb-64" parent="1" style="html=1;whiteSpace=wrap;" value="Tuesday" vertex="1">
+          <mxGeometry height="40" width="70" x="1240" y="225" as="geometry" />
+        </mxCell>
+        <mxCell id="V9Pe7E7J6GEo8Y276DVb-65" parent="1" style="html=1;whiteSpace=wrap;" value="Wednesday" vertex="1">
+          <mxGeometry height="40" width="70" x="1320" y="225" as="geometry" />
+        </mxCell>
+        <mxCell id="V9Pe7E7J6GEo8Y276DVb-66" parent="1" style="html=1;whiteSpace=wrap;" value="Thursday" vertex="1">
+          <mxGeometry height="40" width="70" x="1400" y="225" as="geometry" />
+        </mxCell>
+        <mxCell id="V9Pe7E7J6GEo8Y276DVb-67" parent="1" style="html=1;whiteSpace=wrap;" value="Friday" vertex="1">
+          <mxGeometry height="40" width="70" x="1480" y="225" as="geometry" />
+        </mxCell>
+        <mxCell id="V9Pe7E7J6GEo8Y276DVb-68" parent="1" style="html=1;whiteSpace=wrap;" value="Week 1" vertex="1">
+          <mxGeometry height="25" width="90" x="1150" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="V9Pe7E7J6GEo8Y276DVb-69" parent="1" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.button;dx=10;whiteSpace=wrap;" value="&lt;div&gt;Search Technician/Equipment/Room&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="230" x="1240" y="175" as="geometry" />
+        </mxCell>
+        <mxCell id="V9Pe7E7J6GEo8Y276DVb-70" parent="1" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.button;dx=10;whiteSpace=wrap;" value="&amp;lt; Week &amp;gt;" vertex="1">
+          <mxGeometry height="40" width="70" x="1490" y="175" as="geometry" />
+        </mxCell>
+        <mxCell id="V9Pe7E7J6GEo8Y276DVb-72" parent="1" style="html=1;whiteSpace=wrap;" value="Example Room" vertex="1">
+          <mxGeometry height="25" width="90" x="1310" y="125" as="geometry" />
+        </mxCell>
+        <mxCell id="V9Pe7E7J6GEo8Y276DVb-73" parent="1" style="html=1;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Class" vertex="1">
+          <mxGeometry height="25" width="70" x="1160" y="275" as="geometry" />
+        </mxCell>
+        <mxCell id="V9Pe7E7J6GEo8Y276DVb-74" parent="1" style="html=1;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" value="Class" vertex="1">
+          <mxGeometry height="25" width="70" x="1160" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="V9Pe7E7J6GEo8Y276DVb-75" parent="1" style="html=1;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Class" vertex="1">
+          <mxGeometry height="25" width="70" x="1160" y="345" as="geometry" />
+        </mxCell>
+        <mxCell id="V9Pe7E7J6GEo8Y276DVb-76" parent="1" style="html=1;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Class" vertex="1">
+          <mxGeometry height="25" width="70" x="1160" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="V9Pe7E7J6GEo8Y276DVb-77" parent="1" style="html=1;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" value="Class" vertex="1">
+          <mxGeometry height="25" width="70" x="1240" y="275" as="geometry" />
+        </mxCell>
+        <mxCell id="V9Pe7E7J6GEo8Y276DVb-78" parent="1" style="html=1;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" value="Class" vertex="1">
+          <mxGeometry height="25" width="70" x="1240" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="V9Pe7E7J6GEo8Y276DVb-79" parent="1" style="html=1;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" value="Class" vertex="1">
+          <mxGeometry height="25" width="70" x="1240" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="V9Pe7E7J6GEo8Y276DVb-80" parent="1" style="html=1;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Class" vertex="1">
+          <mxGeometry height="25" width="70" x="1240" y="345" as="geometry" />
+        </mxCell>
+        <mxCell id="V9Pe7E7J6GEo8Y276DVb-81" parent="1" style="html=1;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Class" vertex="1">
+          <mxGeometry height="25" width="70" x="1320" y="275" as="geometry" />
+        </mxCell>
+        <mxCell id="V9Pe7E7J6GEo8Y276DVb-82" parent="1" style="html=1;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Class" vertex="1">
+          <mxGeometry height="25" width="70" x="1320" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="V9Pe7E7J6GEo8Y276DVb-83" parent="1" style="html=1;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Class" vertex="1">
+          <mxGeometry height="25" width="70" x="1320" y="345" as="geometry" />
+        </mxCell>
+        <mxCell id="V9Pe7E7J6GEo8Y276DVb-84" parent="1" style="html=1;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Class" vertex="1">
+          <mxGeometry height="25" width="70" x="1320" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="V9Pe7E7J6GEo8Y276DVb-85" parent="1" style="html=1;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" value="Class" vertex="1">
+          <mxGeometry height="25" width="70" x="1400" y="275" as="geometry" />
+        </mxCell>
+        <mxCell id="V9Pe7E7J6GEo8Y276DVb-86" parent="1" style="html=1;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" value="Class" vertex="1">
+          <mxGeometry height="25" width="70" x="1400" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="V9Pe7E7J6GEo8Y276DVb-87" parent="1" style="html=1;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" value="Class" vertex="1">
+          <mxGeometry height="25" width="70" x="1400" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="V9Pe7E7J6GEo8Y276DVb-88" parent="1" style="html=1;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Class" vertex="1">
+          <mxGeometry height="25" width="70" x="1400" y="345" as="geometry" />
+        </mxCell>
+        <mxCell id="V9Pe7E7J6GEo8Y276DVb-89" parent="1" style="html=1;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" value="Class" vertex="1">
+          <mxGeometry height="25" width="70" x="1480" y="275" as="geometry" />
+        </mxCell>
+        <mxCell id="V9Pe7E7J6GEo8Y276DVb-90" parent="1" style="html=1;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Class" vertex="1">
+          <mxGeometry height="25" width="70" x="1480" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="V9Pe7E7J6GEo8Y276DVb-91" parent="1" style="html=1;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Class" vertex="1">
+          <mxGeometry height="25" width="70" x="1480" y="345" as="geometry" />
+        </mxCell>
+        <mxCell id="V9Pe7E7J6GEo8Y276DVb-92" parent="1" style="html=1;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Class" vertex="1">
+          <mxGeometry height="25" width="70" x="1480" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="V9Pe7E7J6GEo8Y276DVb-95" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="User starts on home page with option to check current timetable for Technicians, rooms and equipment&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;User can then import CSV file and generate a calendar which shows weekly for visual simplicity&lt;/div&gt;" vertex="1">
+          <mxGeometry height="175" width="215" x="60" y="125" as="geometry" />
+        </mxCell>
+        <mxCell id="V9Pe7E7J6GEo8Y276DVb-96" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Once calendar has be generated, the certain classes can be hovered on or clicked to show the details of the class with the option to create manual adjustments&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;If a class is manually adjusted it will check the system to ensure there is no overlap in the timings, room, equipment or technician, shown in red and an error message&lt;/div&gt;" vertex="1">
+          <mxGeometry height="150" width="370" x="290" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="V9Pe7E7J6GEo8Y276DVb-97" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Once a room, equipment or technician has been chosen on the blank timetable it will show a timetable of the chosen data to show for example in red when that room is taken, and blue to show when the room is free to use, which can be used later for the students timetable to again ensure there is no overlap" vertex="1">
+          <mxGeometry height="90" width="395" x="1165" y="525" as="geometry" />
+        </mxCell>
+        <mxCell id="V9Pe7E7J6GEo8Y276DVb-98" parent="1" style="html=1;whiteSpace=wrap;" value="" vertex="1">
+          <mxGeometry height="230" width="410" x="310" y="825" as="geometry" />
+        </mxCell>
+        <mxCell id="V9Pe7E7J6GEo8Y276DVb-99" parent="1" style="html=1;whiteSpace=wrap;" value="Teaching Timetable" vertex="1">
+          <mxGeometry height="50" width="410" x="310" y="775" as="geometry" />
+        </mxCell>
+        <mxCell id="V9Pe7E7J6GEo8Y276DVb-100" parent="1" style="html=1;whiteSpace=wrap;" value="Monday" vertex="1">
+          <mxGeometry height="40" width="70" x="320" y="885" as="geometry" />
+        </mxCell>
+        <mxCell id="V9Pe7E7J6GEo8Y276DVb-101" parent="1" style="html=1;whiteSpace=wrap;" value="Tuesday" vertex="1">
+          <mxGeometry height="40" width="70" x="400" y="885" as="geometry" />
+        </mxCell>
+        <mxCell id="V9Pe7E7J6GEo8Y276DVb-102" parent="1" style="html=1;whiteSpace=wrap;" value="Wednesday" vertex="1">
+          <mxGeometry height="40" width="70" x="480" y="885" as="geometry" />
+        </mxCell>
+        <mxCell id="V9Pe7E7J6GEo8Y276DVb-103" parent="1" style="html=1;whiteSpace=wrap;" value="Thursday" vertex="1">
+          <mxGeometry height="40" width="70" x="560" y="885" as="geometry" />
+        </mxCell>
+        <mxCell id="V9Pe7E7J6GEo8Y276DVb-104" parent="1" style="html=1;whiteSpace=wrap;" value="Friday" vertex="1">
+          <mxGeometry height="40" width="70" x="640" y="885" as="geometry" />
+        </mxCell>
+        <mxCell id="V9Pe7E7J6GEo8Y276DVb-105" parent="1" style="html=1;whiteSpace=wrap;" value="Week 1" vertex="1">
+          <mxGeometry height="25" width="90" x="310" y="850" as="geometry" />
+        </mxCell>
+        <mxCell id="V9Pe7E7J6GEo8Y276DVb-106" parent="1" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.button;dx=10;whiteSpace=wrap;" value="&amp;lt; Week &amp;gt;" vertex="1">
+          <mxGeometry height="40" width="70" x="640" y="830" as="geometry" />
+        </mxCell>
+        <mxCell id="V9Pe7E7J6GEo8Y276DVb-107" parent="1" style="html=1;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" value="Class" vertex="1">
+          <mxGeometry height="25" width="70" x="320" y="935" as="geometry" />
+        </mxCell>
+        <mxCell id="V9Pe7E7J6GEo8Y276DVb-108" parent="1" style="html=1;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" value="Class" vertex="1">
+          <mxGeometry height="25" width="70" x="400" y="935" as="geometry" />
+        </mxCell>
+        <mxCell id="V9Pe7E7J6GEo8Y276DVb-109" parent="1" style="html=1;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" value="Class" vertex="1">
+          <mxGeometry height="25" width="70" x="400" y="970" as="geometry" />
+        </mxCell>
+        <mxCell id="V9Pe7E7J6GEo8Y276DVb-110" parent="1" style="html=1;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" value="Class" vertex="1">
+          <mxGeometry height="25" width="70" x="480" y="970" as="geometry" />
+        </mxCell>
+        <mxCell id="V9Pe7E7J6GEo8Y276DVb-111" parent="1" style="html=1;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" value="Class" vertex="1">
+          <mxGeometry height="25" width="70" x="640" y="935" as="geometry" />
+        </mxCell>
+        <mxCell id="V9Pe7E7J6GEo8Y276DVb-112" parent="1" style="html=1;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" value="Class" vertex="1">
+          <mxGeometry height="25" width="70" x="640" y="970" as="geometry" />
+        </mxCell>
+        <mxCell id="V9Pe7E7J6GEo8Y276DVb-113" parent="1" style="html=1;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" value="Class" vertex="1">
+          <mxGeometry height="25" width="70" x="560" y="935" as="geometry" />
+        </mxCell>
+        <mxCell id="V9Pe7E7J6GEo8Y276DVb-118" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="If a timetable has been updated for a student it will show an indicator that there class has been updated in case there was any need to revert the changes or make more&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="280" x="750" y="880" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
