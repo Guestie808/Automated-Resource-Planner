@@ -5,11 +5,11 @@
 ## Project Sponsor: Hazel Jordan - Enterprise Architect
 
 ## Project Team: Team 6
-- Tyler
-- Morgan
-- Kyran
-- Will
-- Connor
+- Tyler Guest
+- Morgan Jones
+- Kyran Boyce
+- Will Tuffrey
+- Connor Bond-Webber
 
 ## Document Control
 | Version | Issued | Details of Change | Author |
