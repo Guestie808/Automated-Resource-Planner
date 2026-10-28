@@ -1,0 +1,65 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="d3Di8FGtUhSB9MVM_sJN">
+    <mxGraphModel dx="2002" dy="1106" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#FFFFFF,#FFFFFF)" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DtS0vf-nTW0uW9GFLu2h-4" edge="1" parent="1" source="DtS0vf-nTW0uW9GFLu2h-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=none;labelBackgroundColor=none;strokeColor=light-dark(#DDA15E,#000000);fontColor=default;" target="DtS0vf-nTW0uW9GFLu2h-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DtS0vf-nTW0uW9GFLu2h-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#BC6C25;strokeColor=#DDA15E;labelBackgroundColor=none;fontColor=#FEFAE0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Import csv timetable&lt;/font&gt;" vertex="1">
+          <mxGeometry height="70" width="140" x="69" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="DtS0vf-nTW0uW9GFLu2h-6" edge="1" parent="1" source="DtS0vf-nTW0uW9GFLu2h-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=none;labelBackgroundColor=none;strokeColor=light-dark(#DDA15E,#000000);fontColor=default;" target="DtS0vf-nTW0uW9GFLu2h-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DtS0vf-nTW0uW9GFLu2h-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#BC6C25;strokeColor=#DDA15E;labelBackgroundColor=none;fontColor=#FEFAE0;" value="&lt;font size=&quot;3&quot;&gt;Prompt the user for the different rooms they would like to use&lt;/font&gt;" vertex="1">
+          <mxGeometry height="72.5" width="189" x="289" y="218.75" as="geometry" />
+        </mxCell>
+        <mxCell id="DtS0vf-nTW0uW9GFLu2h-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;fontColor=#FEFAE0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;As soon as the user selects an option to generate the timetables, the following steps happen in the background of a loading screen while the given information is processed after each step.&lt;/font&gt;" vertex="1">
+          <mxGeometry height="100" width="400" x="214" y="78" as="geometry" />
+        </mxCell>
+        <mxCell id="DtS0vf-nTW0uW9GFLu2h-10" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=light-dark(#DDA15E,#000000);fontColor=default;" target="DtS0vf-nTW0uW9GFLu2h-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="60" y="330" />
+              <mxPoint x="60" y="435" />
+            </Array>
+            <mxPoint x="790" y="330" as="sourcePoint" />
+            <mxPoint x="50" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DtS0vf-nTW0uW9GFLu2h-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#BC6C25;strokeColor=#DDA15E;labelBackgroundColor=none;fontColor=#FEFAE0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Prompt the user to list available kit - require also listing technitions&lt;/font&gt;" vertex="1">
+          <mxGeometry height="75" width="230" x="529" y="217.5" as="geometry" />
+        </mxCell>
+        <mxCell id="DtS0vf-nTW0uW9GFLu2h-9" edge="1" parent="1" source="DtS0vf-nTW0uW9GFLu2h-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=none;labelBackgroundColor=none;strokeColor=light-dark(#DDA15E,#000000);fontColor=default;" target="DtS0vf-nTW0uW9GFLu2h-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DtS0vf-nTW0uW9GFLu2h-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#BC6C25;strokeColor=#DDA15E;labelBackgroundColor=none;fontColor=#FEFAE0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Based on the number of technicians and amount of kit given, the population of pupils is split accordingly&lt;/font&gt;" vertex="1">
+          <mxGeometry height="110" width="250" x="100" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="DtS0vf-nTW0uW9GFLu2h-13" edge="1" parent="1" source="DtS0vf-nTW0uW9GFLu2h-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;strokeColor=light-dark(#000000,#000000);" target="DtS0vf-nTW0uW9GFLu2h-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DtS0vf-nTW0uW9GFLu2h-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#BC6C25;strokeColor=#DDA15E;labelBackgroundColor=none;fontColor=#FEFAE0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Packing algorithm used to optimise based on colliding factors (room overlap etc)&lt;/font&gt;" vertex="1">
+          <mxGeometry height="110" width="250" x="440" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="DtS0vf-nTW0uW9GFLu2h-11" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0.999;entryY=0.445;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=none;strokeColor=light-dark(#DDA15E,#000000);fontColor=default;" target="DtS0vf-nTW0uW9GFLu2h-5" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="790" y="251" />
+            </Array>
+            <mxPoint x="790" y="330" as="sourcePoint" />
+            <mxPoint x="760" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DtS0vf-nTW0uW9GFLu2h-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#BC6C25;strokeColor=#DDA15E;labelBackgroundColor=none;fontColor=#FEFAE0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Distribute the complete set of timetables to the relevent individuals&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="251" x="289" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="DtS0vf-nTW0uW9GFLu2h-14" parent="1" style="text;html=1;whiteSpace=wrap;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;fontColor=#FEFAE0;" value="By either Outlook or what the client states is a viable service" vertex="1">
+          <mxGeometry height="30" width="130" x="579" y="540" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
