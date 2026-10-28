@@ -1,14 +1,16 @@
-interview 1
+Interview 1
 
-1. What are the main features of the current system you are using?
+1. What are the main features of the current system you are using? What is the full process of booking rooms/ equipment?
 
 2. Which features do you like and why?
 
-3. Which features do you dislike and why?
+3. Are there any you dislike? Why?
 
 4. Are there any particular features you would want in the new system?
 - Necessities vs optional
 
 5. Any aesthetic preferences or is efficiency/readability the priority?
 
-6. Do you know any lecturers that have had feedback on the current system? Any common issues? Is there a way we can get in contact with some?
+5a. (if aesthetics a priority) What colour schemes/ main themes would you like the system to have?
+
+6. Do you know any healthcare lecturers that have had feedback on the current system? Any common issues? Is there a way we can get in contact with some?
