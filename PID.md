@@ -2,9 +2,14 @@
 
 ## Product Name: Automated Resource Planner
 
-## Project Sponsor: 
+## Project Sponsor: Hazel Jordan - Enterprise Architect
 
-## Project Team:
+## Project Team: Team 6
+- Tyler
+- Morgan
+- Kyran
+- Will
+- Connor
 
 ## Document Control
 | Version | Issued | Details of Change | Author |
